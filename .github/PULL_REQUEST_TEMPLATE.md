@@ -40,7 +40,7 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 - [ ] 📜 README.md
 - [ ] 📓 docs
-- [ ] 🏗️ dev.to/OpenSpaceDevelopers
+- [ ] 🏗️ dev.to/mdirshaddev
 - [ ] 📕 storybook
 - [ ] 🙅 no documentation needed
 
